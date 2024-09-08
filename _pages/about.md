@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: ""
+#title: "Jiaen Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Finance at Olin Business School, Washington University in St. Louis. 
+I am a Ph.D. candidate in Finance at Olin Business School, Washington University in St. Louis. My research interests include asset pricing, machine learning, and textual analysis. 
+
 
