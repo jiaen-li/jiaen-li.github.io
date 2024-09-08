@@ -11,17 +11,17 @@ locale                   : "en-US"
 title                    : "Jiaen Li"
 title_separator          : "-"
 name                     : &name "Jiaen Li"
-description              : # &description "personal description"
-url                      : https://jiaenli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://jiaen-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiaenli.github.io"
+repository               : "jiaen-li.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
@@ -73,14 +73,6 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Published Papers'    
-  wp:
-    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
